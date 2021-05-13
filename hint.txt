@@ -1,0 +1,4 @@
+The aliens have learned of a new concept called "security by obscurity". Fortunately for us they think it is a great idea and not a description of a common mistake. We've intercepted some alien comms and think they are XORing flags with a single-byte key and hiding the result inside 9999 lines of random data, Can you find the flag?
+This challenge will raise 33 euros for a good cause.
+
+https://gchq.github.io/CyberChef/#recipe=From_Hex('CRLF')XOR_Brute_Force(1,520000,0,'Standard',false,true,false,'CHTB%7B')
