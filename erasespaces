@@ -1,0 +1,1 @@
+cat file.txt | tr -d " \t\n\r"  > new_file_name
